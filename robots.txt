@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://goaautomation-com.github.io/in/sitemap.xml
