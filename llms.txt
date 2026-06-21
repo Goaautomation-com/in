@@ -1,0 +1,17 @@
+# Goa Automation
+
+> Goa Automation is a proprietorship firm based in Verna Industrial Estate, Goa, India. We specialize in electrical panel building, service & maintenance, and industrial trading of machine electrical components. ISO 9001:2015 certified. We work B2B with manufacturing, pharmaceutical, FMCG, telecom, and water-treatment companies across Goa.
+
+## Services
+- Electrical Panel Building: MCC panels, PCC panels, VFD drive panels, control panels, distribution boards, built to IS/IEC standards.
+- Service & Maintenance: AMC contracts, fault diagnosis, preventive maintenance, rewiring.
+- Industrial Trading: Contactors, relays, circuit breakers, PLCs, sensors, switchgear, cable & conduit — genuine branded components from Siemens, Schneider Electric, ABB, L&T, Havells, Phoenix Contact, Omron, Mitsubishi, Delta, Legrand.
+
+## Contact
+- Phone / WhatsApp: +91 9168547043
+- Email: service.goaautomation@gmail.com
+- Address: SH-233/E/CGS/6, Ground Floor, Sena Hills Bldg, Curbollem, Nagoa-Salcete, Verna Industrial Estate, Verna, Goa 403722, India
+- Working Hours: Monday–Saturday, 9:00 AM – 5:30 PM
+
+## Pages
+- [Homepage](https://goaautomation-com.github.io/in/): Overview of services, clients, about, and contact form.
